@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/activemq-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/asm-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/asm-commons-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/asm-tree-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/class-model.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/commons-lang3-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/freemarker-2.3.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/http-request-0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/infinispan-core-4.2.1.CR1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/javax.ejb-3.0.1 2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/javax.ejb-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/javax.jms.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/javax.jms-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/javax.servlet-3.0.0.v201103241009.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/javax.servlet-3.0.0.v201112011016 2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/javax.servlet-3.0.0.v201112011016 3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/javax.servlet-3.0.0.v201112011016.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/javax.validation-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/jbosscache-core-3.2.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/jdbc-oracle.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/json-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/json-simple-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/log4j-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/log4j-core-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/management-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/ognl-3.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/org.json.simple-0.3-incubating.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/org.springframework.web.servlet-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gladiator/Downloads/ProjectAjay/lib/spring-2.5.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
